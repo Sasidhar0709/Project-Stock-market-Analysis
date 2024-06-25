@@ -1,5 +1,3 @@
-# Stock-market-Analysis
-
 # Title: Forecast Stock Market Trends and Portfolio Optimization Using Neural Networks and Machine Learning Algorithms.
 
 # Research question:
